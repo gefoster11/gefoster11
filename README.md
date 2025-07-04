@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @gefoster11
-- 👀  I’m an Associate Professor within the School of Health and Exercise Science at the University of British Columbia
+- 👀  I’m a Professor within the School of Health and Exercise Science at the University of British Columbia
 - 🌱  My research focuses on human integrative cardiopulmonary physiology and I am interested in creating and sharing open-source tools to make analysis tools accessible to others.
 - 💞️  I’m looking to collaborate on a repository for open-source physiological analysis tools.
 - 📫  glen.foster@ubc.ca
